@@ -810,7 +810,7 @@
             this.Controls.Add(this.labelPoort);
             this.Controls.Add(this.comboBoxPoort);
             this.Name = "Form1";
-            this.Text = "BZL seriële communicatie v2";
+            this.Text = "BZL seriële communicatie SamVanDaele";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl.ResumeLayout(false);
             this.tabPageInstellingen.ResumeLayout(false);
